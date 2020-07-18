@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
 	"name": "no-tera-store-popup",
 	"author": "teralove",
 	"description": "Stop the Tera Store window from opening when you login.",
