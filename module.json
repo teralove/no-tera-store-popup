@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+	"name": "no-tera-store-popup",
+	"author": "teralove",
+	"description": "Stop the Tera Store window from opening when you login.",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A", 
+	"options": {
+		"niceName": "No Tera Store Popup"
+	}
+
+}
